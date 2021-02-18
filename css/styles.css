@@ -285,4 +285,47 @@ header .header .about_slider .owl-carousel .owl-dots .owl-dot.active {
   padding-left: 30px;
   padding-right: 30px;
 }
+
+.team {
+  min-height: 670px;
+  background-position: center center;
+  background-size: cover;
+}
+
+.title_1 {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.title_1 h2 {
+  text-transform: uppercase;
+  font-family: "Playfair Display", serif;
+  font-family: bold;
+  font-size: 14px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.title_1 p {
+  font-family: "Playfair Display", serif;
+  font-size: 14px;
+  color: #fff;
+}
+
+.workers {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-top: 70px;
+}
+
+.workers .worker {
+  width: 235px;
+  height: 230px;
+  background-color: #fff;
+  border: 1px solid  #fff;
+}
 /*# sourceMappingURL=styles.css.map */

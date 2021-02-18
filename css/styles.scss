@@ -275,4 +275,46 @@ header {
         
     }
 }
+.team{
+    min-height: 670px;
+    background-position: center center; 
+    background-size: cover;
+}
+.title_1{
+    text-align: center;
+    margin-top: 70px;
+    h2{
+        text-transform: uppercase;
+        font-family: $playfair;
+        font-family: bold;
+        font-size: 14px;
+        color: #fff;
+        margin-bottom: 20px;
 
+    }
+    p{
+        font-family: $playfair;
+        font-size: 14px;
+        color: #fff;
+
+    }
+
+   
+}
+
+.workers{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+  
+    
+
+.worker{
+    width: 235px;
+    height:230px;
+    background-color:#fff;
+    border: 1px solid  #fff;
+    
+}
+
+}
